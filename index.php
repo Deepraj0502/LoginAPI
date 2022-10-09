@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>PHP Learning</title>
+  <title>loginAPI</title>
   <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
